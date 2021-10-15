@@ -10,7 +10,9 @@ Friction doesnt do shit. We can use this show we don't need to consider friction
 
 # Tasks
 - [x] Complete the list of tasks
-- [ ] Write CSV with the experiment ppts
+- [x] Figure out the simulations works.
+  - [x] Read the old code
+- [x] Write CSV with the experiment ppts
 - [ ] Write the script to generate the parameter table
 - [ ] Check the simulation script
   - [ ] Check the parameter table with the script
