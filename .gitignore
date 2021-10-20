@@ -1,1 +1,4 @@
 .history/*
+logs/*
+table_gen/.history/*
+table_gen/.vscode/*
